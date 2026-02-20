@@ -337,7 +337,7 @@ export default function RetoSteamCuscoPage() {
                 { time: "10:45 – 11:45", label: "Estación 2: Tinturación 🌈", color: STEAM_COLORS.purple, icon: Droplets },
                 { time: "11:45 – 12:45", label: "Estación 3: Manufactura Digital / Software 💻", color: STEAM_COLORS.cyan, icon: Monitor },
                 { time: "12:45 – 2:00", label: "Break experiencial 🎭", color: STEAM_COLORS.lavender, icon: Star },
-                { time: "2:00 – 3:00", label: "Estación 4: Modelo de Negocio 📊", color: STEAM_COLORS.green, icon: BarChart3 },
+                { time: "2:00 – 3:00", label: "Estación 4: Emprendimiento Tech 📊", color: STEAM_COLORS.green, icon: BarChart3 },
                 { time: "3:00 – 4:00", label: "Estación 5: Oportunidades STEAM Internacional 🌍", color: STEAM_COLORS.pink, icon: Globe },
                 { time: "4:00 – 4:30", label: "Ceremonia de clausura 🎓", color: STEAM_COLORS.lavender, icon: Trophy },
               ].map((item, i) => (
